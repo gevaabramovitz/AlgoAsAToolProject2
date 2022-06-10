@@ -1,0 +1,21 @@
+Few shots: prompt -> completion:
+        "I'm sad" ->
+        "its seems you're unhappy now"
+
+        "I disappointed my girlfriend cause I didn't bring her flowers on valentine's day" ->
+        "I understand that you think you hurt someone you love"
+
+        "I feel I'm not welcome cause my friend doesn't invite me" ->
+         "It seems you feel lonely because a close person didn't think about you"
+
+        "I feel so happy cause I got a certificate of distinction on my project" ->
+        "I understand that you feel satisfied with getting an award for something you put a lot of time on"
+
+        "I'm afraid to hit on a girl because I can't expect her response" ->
+         "It looks like you feel unconfident to initiate a new conversation with an unknown girl"
+
+Zero shots: prompts:
+        first:
+                "Express the feeling from the sentence in other words: "
+        second:
+                "Change the sentence from first person to second person: "
